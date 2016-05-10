@@ -1,3 +1,12 @@
+@media screen and (min-width: 321px) {
+    body {
+        background-image: url("../images/fond-zte.jpg");
+        background-repeat: no-repeat;
+        margin: 106px 40px;
+        width: 320px;
+    }
+}
+
 form {
     text-align: center;
 }
