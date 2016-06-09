@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 @media screen and (min-width: 321px) {
     body {
         background-image: url("../images/fond-zte.jpg");
@@ -7,8 +11,14 @@
     }
 }
 
+.wrapper {
+    background-color: #3b3b3b;
+    padding-bottom: 1em;
+}
+
 form {
     text-align: center;
+    margin: -1em 0 1em;
 }
 
 select {
