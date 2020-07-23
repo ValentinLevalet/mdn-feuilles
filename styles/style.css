@@ -4,6 +4,7 @@ html, body {
 }
 
 body {
+    background-color: #3b3b3b;
     margin: 0;
 }
 
@@ -38,7 +39,7 @@ body {
 
 form {
     text-align: center;
-    margin: -1em 0 1em;
+/*    margin: -1em 0 1em;*/
 }
 
 select {
